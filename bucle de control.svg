@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="bucle de control.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.0557596"
+     inkscape:cx="586.3077"
+     inkscape:cy="152.97043"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1498" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1501" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1501-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1501-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1501-7-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linejoin:round;stroke-opacity:1"
+       id="rect846-1"
+       width="30"
+       height="20"
+       x="110.89999"
+       y="52.022678"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linejoin:round;stroke-opacity:1"
+       id="rect846-12"
+       width="30"
+       height="20"
+       x="168.76782"
+       y="52.022678"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linejoin:round;stroke-opacity:1"
+       id="rect846-12-3"
+       width="30"
+       height="20"
+       x="168.76782"
+       y="90.744995"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linejoin:round;stroke-opacity:1"
+       id="rect846-9"
+       width="30"
+       height="20"
+       x="226.63565"
+       y="52.022678"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linejoin:round;stroke-opacity:1"
+       id="path994"
+       cx="78.032143"
+       cy="62.022678"
+       r="5"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 82.688683,62.022678 H 110.19307"
+       id="path1336"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-1)"
+       d="m 140.3664,62.022678 h 27.50439"
+       id="path1336-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7)"
+       d="m 199.00901,62.022678 h 27.50438"
+       id="path1336-70"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-5)"
+       d="m 256.64919,62.022678 h 27.50438"
+       id="path1336-70-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 259.73104,61.900532 V 100.745 h -59.99532"
+       id="path2498"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 168.78545,100.745 H 78.284125 V 67.977812"
+       id="path2955"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="M 72.056223,62.022677 H 30.160491 V 45.298703"
+       id="path3716"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g74165"
+       transform="translate(-7.5182833)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linejoin:round;stroke-opacity:1"
+         id="rect846"
+         width="30"
+         height="20"
+         x="22.682577"
+         y="24.809067" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:25.8578;stroke-width:0.264583"
+         x="219.77705"
+         y="115.78957"
+         id="text13780"
+         transform="translate(-195.20124,-82.196971)"><tspan
+           x="219.77705"
+           y="115.78957"
+           id="tspan267201"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan267199">Ajuste Set </tspan></tspan><tspan
+           x="219.77705"
+           y="121.08124"
+           id="tspan267205"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan267203">Point</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="51.302059"
+       y="60.034084"
+       id="text76489"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan76487"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="51.302059"
+         y="60.034084">Set Point</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="92.226662"
+       y="59.937325"
+       id="text76489-1"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan76487-5"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="92.226662"
+         y="59.937325">Error</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:23.9034;stroke-width:0.264583"
+       x="155.3649"
+       y="41.665871"
+       id="text76489-1-4"
+       transform="translate(-12.906386,12.979789)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="155.3649"
+         y="41.665871"
+         id="tspan267209"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267207">Señal del </tspan></tspan><tspan
+         x="155.3649"
+         y="46.957536"
+         id="tspan267213"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267211">controlador</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:23.9034;stroke-width:0.264583"
+       x="155.3649"
+       y="41.665871"
+       id="text76489-1-4-4"
+       transform="translate(-74.773061,34.546683)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="155.3649"
+         y="41.665871"
+         id="tspan267215">Variable </tspan><tspan
+         x="155.3649"
+         y="46.957536"
+         id="tspan267217">Medida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:23.9034;stroke-width:0.264583"
+       x="155.3649"
+       y="41.665871"
+       id="text76489-1-4-2"
+       transform="translate(45.678878,12.266655)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="155.3649"
+         y="41.665871"
+         id="tspan267221"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267219">Variable </tspan></tspan><tspan
+         x="155.3649"
+         y="46.957536"
+         id="tspan267225"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267223">Manipulada</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:23.9034;stroke-width:0.264583"
+       x="155.3649"
+       y="41.665871"
+       id="text76489-1-4-2-6"
+       transform="translate(106.03772,12.979789)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="155.3649"
+         y="41.665871"
+         id="tspan267227">Salida </tspan><tspan
+         x="155.3649"
+         y="46.957536"
+         id="tspan267229">Controlada</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="113.98961"
+       y="63.442745"
+       id="text76489-1-3"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan76487-5-5"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="113.98961"
+         y="63.442745">Controlador P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:22.9397;stroke-width:0.264583"
+       x="183.36514"
+       y="63.43861"
+       id="text76489-1-3-6"
+       transform="translate(-10.554877,-2.6416952)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="183.36514"
+         y="63.43861"
+         id="tspan267231">Elemento de </tspan><tspan
+         x="183.36514"
+         y="68.730271"
+         id="tspan267233">Control Final</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:25.745;stroke-width:0.264583"
+       x="195.02878"
+       y="102.24708"
+       id="text76489-1-3-6-6"
+       transform="translate(-24.311315,-2.7278482)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="195.02878"
+         y="102.24708"
+         id="tspan267237"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267235">Elemento de </tspan></tspan><tspan
+         x="195.02878"
+         y="107.53874"
+         id="tspan267241"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267239">Medición</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="236.2303"
+       y="63.442745"
+       id="text76489-1-3-6-1"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan76487-5-5-6-2"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="236.2303"
+         y="63.442745">Planta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="81.661453"
+       y="70.207451"
+       id="text155880"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan155878"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="81.661453"
+         y="70.207451">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="69.982269"
+       y="59.920067"
+       id="text155880-8"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan155878-4"
+         style="stroke-width:0.264583"
+         x="69.982269"
+         y="59.920067">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:28.4462;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="73.992126"
+       y="32.606205"
+       id="text168871"
+       transform="translate(-28.251577,0.98640007)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="73.992126"
+         y="32.606205"
+         id="tspan267245"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267243">Potenciómetro </tspan></tspan><tspan
+         x="73.992126"
+         y="37.897866"
+         id="tspan267249"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267247">de control</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:36.775;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="73.992126"
+       y="32.606205"
+       id="text168871-5"
+       transform="translate(-43.335878,34.784485)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="73.992126"
+         y="32.606205"
+         id="tspan267251">Voltaje ADC Pot. Ctrl.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:26.7627;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="100.19826"
+       y="32.606205"
+       id="text168871-5-9"
+       transform="translate(-51.455285,43.606351)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="100.19826"
+         y="32.606205"
+         id="tspan267255"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan267253">Voltaje ADC </tspan></tspan><tspan
+         x="100.19826"
+         y="37.897866"
+         id="tspan267259"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan267257">Pot. EVOA</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:20.4719;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="108.86646"
+       y="32.606205"
+       id="text168871-5-9-9"
+       transform="translate(-22.582607,34.798954)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="108.86646"
+         y="32.606205"
+         id="tspan267263"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267261">Diferencia </tspan></tspan><tspan
+         x="108.86646"
+         y="36.839533"
+         id="tspan267267"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267265">ADCs</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:30.2183;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="100.19826"
+       y="32.606205"
+       id="text168871-5-9-5"
+       transform="translate(19.937814,44.405204)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="100.19826"
+         y="32.606205"
+         id="tspan267269">ESP 32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:13.5528;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="105.74727"
+       y="32.606205"
+       id="text168871-5-9-5-5"
+       transform="translate(-34.552216,15.469841)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="105.74727"
+         y="32.606205"
+         id="tspan267273"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267271">ADCs </tspan></tspan><tspan
+         x="105.74727"
+         y="37.897866"
+         id="tspan267277"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267275">ESP 32</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:30.2183;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="111.64251"
+       y="32.606205"
+       id="text168871-5-9-5-3"
+       transform="translate(27.641531,34.784485)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="111.64251"
+         y="32.606205"
+         id="tspan267281"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267279">Señales hacia </tspan></tspan><tspan
+         x="111.64251"
+         y="37.897866"
+         id="tspan267285"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267283">L293</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:23.8388;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="111.64251"
+       y="32.606205"
+       id="text168871-5-9-5-3-7"
+       transform="translate(89.383118,34.784485)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="111.64251"
+         y="32.606205"
+         id="tspan267289"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267287">Señales hacia </tspan></tspan><tspan
+         x="111.64251"
+         y="37.897866"
+         id="tspan267293"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267291">Paso a Paso</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:30.2183;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="100.19826"
+       y="32.606205"
+       id="text168871-5-9-5-9"
+       transform="translate(79.410718,44.405204)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="100.19826"
+         y="32.606205"
+         id="tspan267295">L293</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:30.2183;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="111.64251"
+       y="32.606205"
+       id="text168871-5-9-5-3-0"
+       transform="translate(149.5516,34.803088)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="111.64251"
+         y="32.606205"
+         id="tspan267297">Posición Filtro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:30.2183;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="111.64251"
+       y="32.606205"
+       id="text168871-5-9-5-3-6"
+       transform="translate(125.04339,44.405204)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="111.64251"
+         y="32.606205"
+         id="tspan267299">EVOA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;white-space:pre;inline-size:30.2183;fill:#de0006;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="124.24225"
+       y="32.606205"
+       id="text168871-5-9-5-3-6-5"
+       transform="translate(44.23849,83.268121)"
+       inkscape:export-filename="C:\Users\karim\Desktop\Facultad\5to Año\Prácticas Profesionalizantes Supervisadas\Atenuador Variable Controlado Electrónicamente\bucle control.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="124.24225"
+         y="32.606205"
+         id="tspan267303"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267301">Potenciómetro </tspan></tspan><tspan
+         x="124.24225"
+         y="37.897866"
+         id="tspan267307"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan267305">EVOA</tspan></tspan></text>
+  </g>
+</svg>
